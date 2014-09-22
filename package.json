@@ -4,6 +4,7 @@
 	"dependencies": {
 		"jsdoc": "https://github.com/jsdoc3/jsdoc/archive/v3.3.0-alpha7.tar.gz",
 		"taffydb": "https://github.com/hegemonic/taffydb/tarball/master",
+		"tar": "~1.0.1",
 		"catharsis": "~0.7.1"
 	},
 	"devDependencies": {
